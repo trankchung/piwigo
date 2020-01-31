@@ -1,0 +1,13 @@
+apiVersion: v1
+description: A Helm chart for Piwigo
+name: piwigo
+version: 1.0.0
+appVersion: 2.10.1
+home: https://github.com/trankchung/piwigo.git
+sources:
+  - https://piwigo.org/
+  - https://hub.docker.com/r/mathieuruellan/piwigo
+maintainers:
+  - name: Chung Tran
+    email: chung.k.tran@gmail.com
+
